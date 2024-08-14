@@ -1,3 +1,3 @@
-# Permanent Redirect: [https://github.com/imgnx](https://github.com/imgnx)
+# 301: [https://github.com/imgnx](https://github.com/imgnx)
 
-This profile has moved to [https://github.com/imgnx](https://github.com/imgnx)
+This profile has premanently moved to [https://github.com/imgnx](https://github.com/imgnx)
